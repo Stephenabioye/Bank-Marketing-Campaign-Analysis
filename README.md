@@ -98,6 +98,7 @@ Customers with housing loans convert at 36.6% vs 57.0% for debt-free customers. 
 - Bar Chart — Conversion Rate by Previous Campaign Outcome
 - Line Chart — Conversion Rate by Month
 - Bar Chart — Avg Call Duration by Outcome
+- Bar Chart — Conversion Rate by Housing and Personal Loan Status
 - Slicers — Deposit, Job, Education, Age Group, Month
 
 ## Project Files
