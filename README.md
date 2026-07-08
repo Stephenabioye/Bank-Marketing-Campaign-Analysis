@@ -101,14 +101,6 @@ Customers with housing loans convert at 36.6% vs 57.0% for debt-free customers. 
 - Bar Chart — Conversion Rate by Housing and Personal Loan Status
 - Slicers — Deposit, Job, Education, Age Group, Month
 
-## Project Files
-| File | Description |
-|---|---|
-| `bank.csv` | Raw dataset |
-| `BankMarketing_Dashboard.pbix` | Power BI dashboard file |
-| `BankMarketing_CaseStudy_Report.docx` | Full business analytics report |
-| `BankMarketing_Presentation.pptx` | Presentation slides |
-
 ## About
 This project was completed as part of a **Data Analytics Internship at AnalystLab Africa (2026)** — Week 5: Business Analytics Case Study. It demonstrates skills in exploratory data analysis, conversion rate analysis, DAX measure creation, business insight generation, and actionable recommendation writing.
 
